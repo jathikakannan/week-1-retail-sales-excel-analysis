@@ -33,3 +33,34 @@ Tasks Completed
 Author
 
 Jathika Kannan
+# Week 2 - Advanced Excel Analysis & Power BI Dashboard
+
+## Objective
+Built an interactive Power BI dashboard using the Retail Sales dataset and enhanced Excel analysis using Pivot Tables and KPI calculations.
+
+## Tasks Completed
+- Created Pivot Tables
+- Calculated Business KPIs
+- Wrote Business Insights
+- Designed Interactive Power BI Dashboard
+- Created KPI Cards
+- Created Bar, Donut, Column and Line Charts
+- Added Age Group Analysis
+- Added Interactive Slicers
+
+## Dashboard Features
+- Total Sales KPI
+- Total Transactions KPI
+- Total Quantity Sold KPI
+- Average Sales KPI
+- Sales by Product Category
+- Sales by Gender
+- Quantity Sold by Category
+- Sales Trend Over Time
+- Sales by Age Group
+
+## Tools Used
+- Microsoft Excel
+- Microsoft Power BI
+- GitHub
+- 
