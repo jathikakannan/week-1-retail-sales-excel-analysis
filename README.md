@@ -92,4 +92,177 @@ Built an interactive Power BI dashboard using the Retail Sales dataset and enhan
 - Microsoft Excel
 - Microsoft Power BI
 - GitHub
-- 
+
+# Week 4 Final Project – Funnel Analysis (SQL + Power BI)
+
+## Project Overview
+
+This project is the final assignment of my Data Analyst Internship at LogicStack. The objective was to analyze customer behavior using SQL and Power BI by studying the user conversion funnel, identifying drop-off points, evaluating business performance, and providing data-driven recommendations.
+
+---
+
+## Objective
+
+- Analyze user behavior using SQL
+- Understand the customer conversion funnel
+- Identify major drop-off points
+- Build an interactive Power BI dashboard
+- Generate business insights and recommendations
+
+---
+
+## Tools Used
+
+- SQL Server Management Studio (SSMS)
+- Microsoft Power BI
+- Microsoft Excel
+- GitHub
+
+---
+
+## Dataset
+
+**Dataset Name:** Client Site Dataset.csv
+
+The dataset contains customer activity such as:
+
+- User ID
+- Session ID
+- Event Time
+- Event
+- Device
+- Region
+- Channel
+- Product Category
+- Revenue
+- Bonus Flag
+
+---
+
+# SQL Analysis
+
+### Task 1 – Data Exploration
+
+- Calculated total rows
+- Counted unique users
+- Counted unique sessions
+- Identified available event types
+
+### Task 2 – Funnel Analysis
+
+- Counted events by type
+- Counted users at each funnel stage
+- Calculated Browse to Purchase conversion
+
+### Task 3 – Revenue Analysis
+
+- Total Revenue
+- Revenue by Region
+- Revenue by Channel
+- Revenue by Device
+
+### Task 4 – Business Insights
+
+- Top 5 users by revenue
+- Best performing channel
+- Highest revenue region
+- Revenue analysis by device
+
+### Task 5 – Drop-off Analysis
+
+- Identified user drop-off between funnel stages
+- Analyzed conversion performance
+
+---
+
+# Power BI Dashboard
+
+The dashboard includes:
+
+- KPI Cards
+  - Total Users
+  - Total Revenue
+  - Total Events
+  - Total Purchases
+
+- Funnel Chart
+- Revenue by Channel
+- Revenue by Region
+- Device Distribution
+- Revenue Trend
+- Interactive Filters (Region, Channel, Device)
+
+---
+
+# SQL Insights
+
+1. The dataset contains user interactions across multiple funnel stages.
+2. Browse events are significantly higher than purchase events.
+3. Revenue is concentrated in a few marketing channels.
+4. Certain regions contribute more revenue than others.
+5. A small group of users generates a large share of total revenue.
+
+---
+
+# Dashboard Insights
+
+1. The biggest user drop-off occurs between Add to Cart and Checkout.
+2. The top-performing marketing channel generates the highest revenue.
+3. The highest revenue comes from the best-performing region.
+4. Device usage differs across customers, affecting overall engagement.
+5. Funnel analysis highlights opportunities to improve customer conversion.
+
+---
+
+# Business Recommendations
+
+1. Improve the Checkout process to reduce customer drop-off.
+2. Increase investment in the highest-performing marketing channels.
+3. Create targeted campaigns for high-value customer segments and regions.
+
+---
+
+# Business Insight Panel
+
+- Biggest Drop-off Point:
+  Add to Cart → Checkout
+
+- Best Performing Channel:
+  (Update based on your SQL result)
+
+- Most Valuable User Segment:
+  (Update based on your dashboard result)
+
+---
+
+# Final Outcome
+
+This project helped me:
+
+- Understand customer behavior using funnel analysis.
+- Perform SQL-based business analysis.
+- Build interactive dashboards in Power BI.
+- Generate meaningful business insights.
+- Improve my analytical and visualization skills.
+
+---
+
+
+```
+
+---
+
+# Conclusion
+
+This project provided practical experience in SQL querying, customer funnel analysis, business intelligence, and dashboard development. It strengthened my ability to convert raw data into meaningful insights and business recommendations using SQL Server and Power BI.
+
+---
+
+## Author
+
+**Jathika Kannan**
+
+Data Analyst Intern – LogicStack
+
+
+
